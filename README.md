@@ -1,4 +1,4 @@
-# 🚀 Prompt-to-SQL Query using GenAI
+# 🚀 Augmented sales analytics dashboard
 
 Turn natural language into SQL queries and get instant results from your dataset using the power of Generative AI.
 
